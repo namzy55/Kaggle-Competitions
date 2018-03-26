@@ -1,3 +1,5 @@
+#Source code to the Kaggle Competition - Titanic
+
 #Import the dataset into R
 train <- read.csv("D:/Kaggle/Titanic/train.csv")
 test <- read.csv("D:/Kaggle/Titanic/test.csv")
