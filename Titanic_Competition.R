@@ -1,6 +1,6 @@
 #Import the dataset into R
-train <- read.csv("D:/Study Material/R/dir/Sample Dataset/Titanic_DavidLanger/train.csv")
-test <- read.csv("D:/Study Material/R/dir/Sample Dataset/Titanic_DavidLanger/test.csv")
+train <- read.csv("D:/Kaggle/Titanic/train.csv")
+test <- read.csv("D:/Kaggle/Titanic/test.csv")
 
 #View the datasets
 View(train)
